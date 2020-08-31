@@ -1,0 +1,7 @@
+[INFO ] 2020-08-28 13:56:18.282 [TestNG-tests-2] Base - This is a information for loading a file 
+[INFO ] 2020-08-28 13:56:18.282 [TestNG-tests-3] Base - This is a information for loading a file 
+[INFO ] 2020-08-28 13:56:18.282 [TestNG-tests-1] Base - This is a information for loading a file 
+[INFO ] 2020-08-28 13:56:27.481 [TestNG-tests-1] Base - Chrome Lanuched !!!
+[INFO ] 2020-08-28 13:56:27.481 [TestNG-tests-3] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-28 13:56:27.483 [TestNG-tests-1] Base - Message debugged
+[DEBUG] 2020-08-28 13:56:27.483 [TestNG-tests-3] Base - Message debugged

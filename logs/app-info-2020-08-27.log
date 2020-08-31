@@ -1,0 +1,96 @@
+[INFO ] 2020-08-27 15:22:12.135 [main] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 15:22:20.801 [main] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 15:22:20.802 [main] Base - Message debugged
+[INFO ] 2020-08-27 17:40:20.965 [main] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 17:40:27.964 [main] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 17:40:27.964 [main] Base - Message debugged
+[INFO ] 2020-08-27 17:42:44.374 [main] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 17:42:48.947 [main] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 17:42:48.948 [main] Base - Message debugged
+[INFO ] 2020-08-27 17:44:34.072 [main] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 17:44:38.380 [main] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 17:44:38.381 [main] Base - Message debugged
+[INFO ] 2020-08-27 17:44:49.945 [main] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 17:44:53.604 [main] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 17:44:53.604 [main] Base - Message debugged
+[INFO ] 2020-08-27 17:48:05.663 [TestNG-tests-2] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 17:48:05.663 [TestNG-tests-1] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 17:48:10.561 [TestNG-tests-1] Base - Chrome Lanuched !!!
+[INFO ] 2020-08-27 17:48:10.561 [TestNG-tests-2] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 17:48:10.561 [TestNG-tests-1] Base - Message debugged
+[DEBUG] 2020-08-27 17:48:10.561 [TestNG-tests-2] Base - Message debugged
+[INFO ] 2020-08-27 17:50:36.492 [TestNG-tests-2] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 17:50:36.492 [TestNG-tests-1] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 17:50:41.221 [TestNG-tests-2] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 17:50:41.221 [TestNG-tests-2] Base - Message debugged
+[INFO ] 2020-08-27 17:50:41.540 [TestNG-tests-1] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 17:50:41.540 [TestNG-tests-1] Base - Message debugged
+[INFO ] 2020-08-27 17:52:44.603 [TestNG-tests-1] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 17:52:44.603 [TestNG-tests-2] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 17:52:49.554 [TestNG-tests-1] Base - Chrome Lanuched !!!
+[INFO ] 2020-08-27 17:52:49.554 [TestNG-tests-2] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 17:52:49.554 [TestNG-tests-1] Base - Message debugged
+[DEBUG] 2020-08-27 17:52:49.554 [TestNG-tests-2] Base - Message debugged
+[INFO ] 2020-08-27 18:01:36.091 [main] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 18:01:40.499 [main] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 18:01:40.499 [main] Base - Message debugged
+[INFO ] 2020-08-27 18:04:06.395 [TestNG-tests-2] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 18:04:06.395 [TestNG-tests-1] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 18:04:11.401 [TestNG-tests-1] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 18:04:11.401 [TestNG-tests-1] Base - Message debugged
+[INFO ] 2020-08-27 18:04:11.403 [TestNG-tests-2] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 18:04:11.403 [TestNG-tests-2] Base - Message debugged
+[INFO ] 2020-08-27 18:04:51.053 [TestNG-tests-2] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 18:04:51.053 [TestNG-tests-1] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 18:04:55.988 [TestNG-tests-1] Base - Chrome Lanuched !!!
+[INFO ] 2020-08-27 18:04:55.988 [TestNG-tests-2] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 18:04:55.988 [TestNG-tests-1] Base - Message debugged
+[DEBUG] 2020-08-27 18:04:55.988 [TestNG-tests-2] Base - Message debugged
+[INFO ] 2020-08-27 18:06:56.291 [TestNG-tests-1] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 18:06:56.291 [TestNG-tests-2] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 18:07:01.100 [TestNG-tests-1] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 18:07:01.100 [TestNG-tests-1] Base - Message debugged
+[INFO ] 2020-08-27 18:07:01.398 [TestNG-tests-2] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 18:07:01.399 [TestNG-tests-2] Base - Message debugged
+[INFO ] 2020-08-27 18:08:37.444 [TestNG-tests-1] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 18:08:37.444 [TestNG-tests-2] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 18:08:42.152 [TestNG-tests-1] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 18:08:42.152 [TestNG-tests-1] Base - Message debugged
+[INFO ] 2020-08-27 18:08:42.540 [TestNG-tests-2] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 18:08:42.540 [TestNG-tests-2] Base - Message debugged
+[INFO ] 2020-08-27 18:11:54.146 [TestNG-tests-3] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 18:11:54.146 [TestNG-tests-1] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 18:11:54.146 [TestNG-tests-2] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 18:11:59.829 [TestNG-tests-2] Base - Chrome Lanuched !!!
+[INFO ] 2020-08-27 18:11:59.829 [TestNG-tests-3] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 18:11:59.829 [TestNG-tests-3] Base - Message debugged
+[DEBUG] 2020-08-27 18:11:59.829 [TestNG-tests-2] Base - Message debugged
+[INFO ] 2020-08-27 18:12:00.188 [TestNG-tests-1] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 18:12:00.188 [TestNG-tests-1] Base - Message debugged
+[INFO ] 2020-08-27 18:21:51.822 [TestNG-tests-1] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 18:21:51.822 [TestNG-tests-3] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 18:21:51.822 [TestNG-tests-2] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 18:21:57.394 [TestNG-tests-1] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 18:21:57.395 [TestNG-tests-1] Base - Message debugged
+[INFO ] 2020-08-27 18:21:57.607 [TestNG-tests-2] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 18:21:57.607 [TestNG-tests-2] Base - Message debugged
+[INFO ] 2020-08-27 18:21:57.876 [TestNG-tests-3] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 18:21:57.876 [TestNG-tests-3] Base - Message debugged
+[INFO ] 2020-08-27 18:23:58.570 [TestNG-tests-1] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 18:23:58.570 [TestNG-tests-2] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 18:23:58.570 [TestNG-tests-3] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 18:24:04.144 [TestNG-tests-1] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 18:24:04.144 [TestNG-tests-1] Base - Message debugged
+[INFO ] 2020-08-27 18:24:04.178 [TestNG-tests-3] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 18:24:04.178 [TestNG-tests-3] Base - Message debugged
+[INFO ] 2020-08-27 18:24:05.087 [TestNG-tests-2] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 18:24:05.087 [TestNG-tests-2] Base - Message debugged
+[INFO ] 2020-08-27 18:25:30.674 [TestNG-tests-2] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 18:25:30.674 [TestNG-tests-3] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 18:25:30.674 [TestNG-tests-1] Base - This is a information for loading a file 
+[INFO ] 2020-08-27 18:25:36.473 [TestNG-tests-2] Base - Chrome Lanuched !!!
+[INFO ] 2020-08-27 18:25:36.473 [TestNG-tests-3] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 18:25:36.473 [TestNG-tests-3] Base - Message debugged
+[DEBUG] 2020-08-27 18:25:36.473 [TestNG-tests-2] Base - Message debugged
+[INFO ] 2020-08-27 18:25:36.865 [TestNG-tests-1] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-27 18:25:36.865 [TestNG-tests-1] Base - Message debugged

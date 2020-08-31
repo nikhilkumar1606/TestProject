@@ -1,0 +1,93 @@
+[INFO ] 2020-08-25 13:07:12.445 [TestNG-tests-2] Base - This is a information for loading a file 
+[INFO ] 2020-08-25 13:07:12.445 [TestNG-tests-1] Base - This is a information for loading a file 
+[INFO ] 2020-08-25 13:07:12.445 [TestNG-tests-3] Base - This is a information for loading a file 
+[INFO ] 2020-08-25 13:07:18.721 [TestNG-tests-3] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-25 13:07:18.722 [TestNG-tests-3] Base - Message debugged
+[INFO ] 2020-08-25 13:07:18.887 [TestNG-tests-2] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-25 13:07:18.888 [TestNG-tests-2] Base - Message debugged
+[INFO ] 2020-08-25 13:07:18.888 [TestNG-tests-1] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-25 13:07:18.889 [TestNG-tests-1] Base - Message debugged
+[INFO ] 2020-08-25 13:07:21.519 [TestNG-tests-3] Base - This is the information
+[DEBUG] 2020-08-25 13:07:21.520 [TestNG-tests-3] Base - Testing
+[INFO ] 2020-08-25 13:07:32.615 [TestNG-tests-2] Base - Webdrvier initialize
+[INFO ] 2020-08-25 13:07:34.551 [TestNG-tests-2] Base - Navigated to the URL
+[DEBUG] 2020-08-25 13:07:37.463 [TestNG-tests-2] Base - Launching the Login Page
+[INFO ] 2020-08-25 13:07:37.464 [TestNG-tests-2] Base - Login page successfully launched
+[INFO ] 2020-08-25 13:13:12.513 [TestNG-tests-1] Base - This is a information for loading a file 
+[INFO ] 2020-08-25 13:13:12.513 [TestNG-tests-3] Base - This is a information for loading a file 
+[INFO ] 2020-08-25 13:13:12.513 [TestNG-tests-2] Base - This is a information for loading a file 
+[INFO ] 2020-08-25 13:13:18.779 [TestNG-tests-3] Base - Chrome Lanuched !!!
+[INFO ] 2020-08-25 13:13:18.779 [TestNG-tests-2] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-25 13:13:18.780 [TestNG-tests-2] Base - Message debugged
+[DEBUG] 2020-08-25 13:13:18.780 [TestNG-tests-3] Base - Message debugged
+[INFO ] 2020-08-25 13:13:18.883 [TestNG-tests-1] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-25 13:13:18.884 [TestNG-tests-1] Base - Message debugged
+[INFO ] 2020-08-25 13:13:21.048 [TestNG-tests-2] Base - Webdrvier initialize
+[INFO ] 2020-08-25 13:13:21.048 [TestNG-tests-3] Base - This is the information
+[DEBUG] 2020-08-25 13:13:21.048 [TestNG-tests-3] Base - Testing
+[INFO ] 2020-08-25 13:13:32.120 [TestNG-tests-2] Base - Navigated to the URL
+[DEBUG] 2020-08-25 13:13:39.013 [TestNG-tests-2] Base - Launching the Login Page
+[INFO ] 2020-08-25 13:13:39.013 [TestNG-tests-2] Base - Login page successfully launched
+[INFO ] 2020-08-25 13:13:39.220 [TestNG-tests-2] Base - Username entered successfully
+[INFO ] 2020-08-25 13:15:40.687 [TestNG-tests-1] Base - This is a information for loading a file 
+[INFO ] 2020-08-25 13:15:40.687 [TestNG-tests-2] Base - This is a information for loading a file 
+[INFO ] 2020-08-25 13:15:40.687 [TestNG-tests-3] Base - This is a information for loading a file 
+[INFO ] 2020-08-25 13:15:46.352 [TestNG-tests-2] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-25 13:15:46.352 [TestNG-tests-2] Base - Message debugged
+[INFO ] 2020-08-25 13:15:46.502 [TestNG-tests-3] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-25 13:15:46.502 [TestNG-tests-3] Base - Message debugged
+[INFO ] 2020-08-25 13:15:46.633 [TestNG-tests-1] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-25 13:15:46.633 [TestNG-tests-1] Base - Message debugged
+[INFO ] 2020-08-25 13:15:48.836 [TestNG-tests-3] Base - This is the information
+[DEBUG] 2020-08-25 13:15:48.837 [TestNG-tests-3] Base - Testing
+[INFO ] 2020-08-25 13:15:48.838 [TestNG-tests-2] Base - Webdrvier initialize
+[INFO ] 2020-08-25 13:16:02.411 [TestNG-tests-2] Base - Navigated to the URL
+[DEBUG] 2020-08-25 13:16:12.219 [TestNG-tests-2] Base - Launching the Login Page
+[INFO ] 2020-08-25 13:16:12.219 [TestNG-tests-2] Base - Login page successfully launched
+[INFO ] 2020-08-25 14:33:53.392 [TestNG-tests-1] Base - This is a information for loading a file 
+[INFO ] 2020-08-25 14:33:53.392 [TestNG-tests-3] Base - This is a information for loading a file 
+[INFO ] 2020-08-25 14:33:53.392 [TestNG-tests-2] Base - This is a information for loading a file 
+[INFO ] 2020-08-25 14:33:59.497 [TestNG-tests-1] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-25 14:33:59.497 [TestNG-tests-1] Base - Message debugged
+[INFO ] 2020-08-25 14:33:59.918 [TestNG-tests-3] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-25 14:33:59.919 [TestNG-tests-3] Base - Message debugged
+[INFO ] 2020-08-25 14:34:00.201 [TestNG-tests-2] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-25 14:34:00.201 [TestNG-tests-2] Base - Message debugged
+[INFO ] 2020-08-25 14:34:02.330 [TestNG-tests-3] Base - This is the information
+[DEBUG] 2020-08-25 14:34:02.331 [TestNG-tests-3] Base - Testing
+[INFO ] 2020-08-25 14:34:12.848 [TestNG-tests-2] Base - Webdrvier initialize
+[INFO ] 2020-08-25 14:34:14.619 [TestNG-tests-2] Base - Navigated to the URL
+[DEBUG] 2020-08-25 14:34:17.364 [TestNG-tests-2] Base - Launching the Login Page
+[INFO ] 2020-08-25 14:34:17.364 [TestNG-tests-2] Base - Login page successfully launched
+[INFO ] 2020-08-25 16:04:50.182 [TestNG-tests-1] Base - This is a information for loading a file 
+[INFO ] 2020-08-25 16:04:50.182 [TestNG-tests-3] Base - This is a information for loading a file 
+[INFO ] 2020-08-25 16:04:50.182 [TestNG-tests-2] Base - This is a information for loading a file 
+[INFO ] 2020-08-25 16:04:57.235 [TestNG-tests-3] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-25 16:04:57.240 [TestNG-tests-3] Base - Message debugged
+[INFO ] 2020-08-25 16:04:57.416 [TestNG-tests-1] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-25 16:04:57.417 [TestNG-tests-1] Base - Message debugged
+[INFO ] 2020-08-25 16:04:57.452 [TestNG-tests-2] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-25 16:04:57.452 [TestNG-tests-2] Base - Message debugged
+[INFO ] 2020-08-25 16:04:59.837 [TestNG-tests-3] Base - This is the information
+[DEBUG] 2020-08-25 16:04:59.837 [TestNG-tests-3] Base - Testing
+[INFO ] 2020-08-25 16:04:59.843 [TestNG-tests-2] Base - Webdrvier initialize
+[INFO ] 2020-08-25 16:05:28.621 [TestNG-tests-2] Base - Navigated to the URL
+[INFO ] 2020-08-25 16:05:45.620 [main] Base - This is a information for loading a file 
+[INFO ] 2020-08-25 16:05:52.193 [main] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-25 16:05:52.193 [main] Base - Message debugged
+[INFO ] 2020-08-25 16:06:11.864 [main] Base - This is a information for loading a file 
+[INFO ] 2020-08-25 16:06:16.052 [main] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-25 16:06:16.052 [main] Base - Message debugged
+[INFO ] 2020-08-25 16:06:18.262 [main] Base - Webdrvier initialize
+[INFO ] 2020-08-25 16:06:34.042 [main] Base - Navigated to the URL
+[DEBUG] 2020-08-25 16:06:41.044 [main] Base - Launching the Login Page
+[INFO ] 2020-08-25 16:06:41.045 [main] Base - Login page successfully launched
+[INFO ] 2020-08-25 16:06:41.857 [main] Base - Username entered successfully
+[DEBUG] 2020-08-25 16:06:44.072 [main] Base - Launching the Login Page
+[INFO ] 2020-08-25 16:06:44.072 [main] Base - Login page successfully launched
+[INFO ] 2020-08-25 16:06:44.380 [main] Base - Username entered successfully
+[INFO ] 2020-08-25 16:06:44.569 [main] Base - This is a information for loading a file 
+[INFO ] 2020-08-25 16:06:48.538 [main] Base - Chrome Lanuched !!!
+[DEBUG] 2020-08-25 16:06:48.538 [main] Base - Message debugged
+[INFO ] 2020-08-25 16:06:50.747 [main] Base - This is the information
+[DEBUG] 2020-08-25 16:06:50.748 [main] Base - Testing
